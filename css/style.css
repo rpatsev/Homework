@@ -1,0 +1,48 @@
+html{
+	background-color: #FAF0E6;
+}
+
+#name{
+text-align: center;	
+font-weight: bold;
+font-size: 22px;
+}
+
+body{
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 2%;
+	margin-bottom: 5%;
+	border: 2px solid grey;
+	background: white;
+}
+
+.box1,
+.box2,
+.box3,
+.box4{
+	margin: -10px 80px -10px 80px;
+	padding: 10px;
+	border-bottom: 1px solid grey;
+}
+
+.box5{
+	margin: 0px 80px 0px 80px;
+	padding: 10px;
+}
+
+img{
+	text-align: center;
+	width: 40%;
+	border-radius: 0px 0px 35px 35px;
+}
+	
+p{
+	font-size: 28px;
+	font-family: "Serif";
+}
+	
+li{
+	font-size: 28px;
+	margin-bottom: 10px;
+}
